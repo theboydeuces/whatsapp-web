@@ -1,0 +1,217 @@
+body{
+    height: 120vh;
+    background-color: #e4e3e3e7;
+}
+nav{
+    width: 1893px;
+    height: 222px;
+    border: 1px solid #00a884;;
+    background-color: #00a884;
+    position: relative;
+}
+.whatsapp-flex{
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    border: 0px;
+    position: relative;
+    left: 400px;
+    top: 40px;
+}
+.whatsapp-svg{
+    width: 39px;
+    height: 39px;
+    border: 0px;
+}
+.whatsapp-div{
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 0px;
+    padding: 10px
+}
+main{
+    width: 908.64px;
+    height: 896px;
+    border: 0px;
+    border-radius: 2px;
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    background-color: white;
+    box-shadow: 1px 1px 15px grey;
+}
+.main-div1{
+    width: 100%;
+    height: 50%;
+    border: 0px;
+}
+.main-div2{
+    width: 100%;
+    height: 50%;
+    border: 0px;
+    background-color: rgb(241, 240, 240);
+}
+.main-flex{
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+}
+.flex-content{
+    width: fit-content;
+    height: 209px;
+    border: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #41525d;
+    position: relative;
+    top: 70px;
+    left: 30px;
+}
+.content-one{
+    width: 464.64px;
+    height: 37px;
+    position: relative;
+    left: 20px;
+    border: 0px;
+    font-size: 28px;
+    font-weight: 300;
+    color: #41525d;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.span-i{
+    width: 24px;
+    height: 24px;
+    background-color: rgb(206, 203, 203);
+    border: 0px;
+}
+.icon-div1{
+    display: flex;
+}
+#ellipsis{
+    margin-left: 10px;
+    color: gray;
+    margin-top: 3px;
+}
+#gear{
+    margin-left: 3px;
+    color: gray;
+    margin-top: 3px;
+}
+li{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+.img-scan{
+    width: 264px;
+    height: 264px;
+    border: 0px;
+    position: relative;
+    top: 30px;
+    right: -40px;
+}
+ol{
+    margin-top: 60px;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+.a-div{
+    width: fit-content;
+    height: fit-content;
+    border: 0px;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.whatsapp-image{
+    width: 560px;
+    height: 314px;
+    border: 0px;
+    margin: auto;
+    position: relative;
+    top: 30px;
+}
+.circle-div{
+    width: 80px;
+    height: 80px;
+    border: 0px;
+    border-radius: 60px;
+    position: absolute;
+    left: 47%;
+    top: 68%;
+    background-color: rgb(14, 13, 13,0.5)
+}
+.icon-play{
+    width: 28px;
+    height: 34px;
+    border: 0px;
+    position: relative;
+    margin: auto;
+    top: 19px;
+}
+#play{
+    font-size: 40px;
+    color: white;
+}
+.icon-sticky{
+    width: 44px;
+    height: fit-content;
+    border: 0px;
+    position: sticky;
+    float: right;
+    top: 400px;
+
+}
+.sticky-content{
+    width: 32px;
+    height: 32px;
+    border: 0px;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 60px;
+    background-color:#fa6400;
+}
+#facebook{
+    font-size: 20px;
+    margin-top: 7px;
+    margin-left: 9px;
+    color: white;
+}
+#twitter{
+    font-size: 20px;
+    margin-top: 7px;
+    margin-left: 7px;
+    color: white;
+}
+#youtube{
+    font-size: 20px;
+    margin-top: 7px;
+    margin-left: 5px;
+    color: white;
+}
+.whatsapp-w{
+    border: 0px;
+    width: 149.02px;
+    height: 35.59px;
+    background-color: #fa6400;
+    border-radius: 20px;
+    position: fixed;
+    top: 880px;
+    left: 1750px;
+}
+#whatsapp{
+    font-size: 20px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 8px;
+}
+.whatsapp-w-span{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    margin:auto;
+}
